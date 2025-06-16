@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AWS_Learning_YK\\sampleDockerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2255EFD-413B-4E5D-9759-ECF6AE2EF475}|sampleDockerAPI.csproj|d:\\aws_learning_yk\\sampledockerapi\\buildspec.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C2255EFD-413B-4E5D-9759-ECF6AE2EF475}|sampleDockerAPI.csproj|solutionrelative:buildspec.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2255EFD-413B-4E5D-9759-ECF6AE2EF475}|sampleDockerAPI.csproj|d:\\aws_learning_yk\\sampledockerapi\\deploy.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C2255EFD-413B-4E5D-9759-ECF6AE2EF475}|sampleDockerAPI.csproj|solutionrelative:deploy.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2255EFD-413B-4E5D-9759-ECF6AE2EF475}|sampleDockerAPI.csproj|d:\\aws_learning_yk\\sampledockerapi\\build.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C2255EFD-413B-4E5D-9759-ECF6AE2EF475}|sampleDockerAPI.csproj|solutionrelative:build.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2255EFD-413B-4E5D-9759-ECF6AE2EF475}|sampleDockerAPI.csproj|d:\\aws_learning_yk\\sampledockerapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C2255EFD-413B-4E5D-9759-ECF6AE2EF475}|sampleDockerAPI.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2255EFD-413B-4E5D-9759-ECF6AE2EF475}|sampleDockerAPI.csproj|d:\\aws_learning_yk\\sampledockerapi\\deployment.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C2255EFD-413B-4E5D-9759-ECF6AE2EF475}|sampleDockerAPI.csproj|solutionrelative:deployment.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "buildspec.yml",
+              "DocumentMoniker": "D:\\AWS_Learning_YK\\sampleDockerAPI\\buildspec.yml",
+              "RelativeDocumentMoniker": "buildspec.yml",
+              "ToolTip": "D:\\AWS_Learning_YK\\sampleDockerAPI\\buildspec.yml",
+              "RelativeToolTip": "buildspec.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-12T13:54:12.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "deploy.ps1",
+              "DocumentMoniker": "D:\\AWS_Learning_YK\\sampleDockerAPI\\deploy.ps1",
+              "RelativeDocumentMoniker": "deploy.ps1",
+              "ToolTip": "D:\\AWS_Learning_YK\\sampleDockerAPI\\deploy.ps1",
+              "RelativeToolTip": "deploy.ps1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKISURBVDhPlVLdS1RBFP/dux/JrppKUVoISrRSbVGEBq4Z5ZPRk39A9FYPUQ89CUEv2WOC\u002BFRB9QcUPoQkBItUkAa\u002BpNZ\u002BGO2u3nbdVe/evevuzsydZmY/shehM/fMuefMnN/8zuFoEBIOh7m0\u002BwnnnPX39z/0\u002B/1PaiEVVFYCUEI4pYQzRpU6DlMqY9IuLCzwubk5llhP3lFJNdHlJoHkUl8NtG51XV0BIQShUEj/vrw6GY/Hb6qgEHXqOM6\u002BIFJs28b8/Ly86xUAL2vhvwzEVgXZ8984EzIycg1ng0H0BQLKr4tqoqiND18egqYJV\u002BjMu/fo7OpSvk0YvG4dLvFUhXI44j7hGtKGwW\u002BN3agW2ChB6PqGAV9bB1oCQUxveIHOHkwl3VjxdyN3vA/rh0/A1X0ShTJRjysAxphkrQAi0Rjgb8VyWUfcpoDLg/uXevDoQwTPI9t4Y5QQyxZgJBOkAbCXQc4uw\u002BQexPJlME3H7dkVdDV78HbsHJZWk1jL5pHezCG9kdr8B0BSkCzyxTLSjgcRqwKnrRWZHRuO7sLH1DZ2ShTRtAlqbsHKGJ8bAJTSBoMCZfhB3JiJb2EzmkDs7jBGX33Bs8VfOAgGZzsPapnIb\u002BVmGwD1ZEnhN/Xia7YEtruLIy1NuPJ6UXV\u002B6voZPBjshVe0Lp/NwNfanpK5brmZpinnRwEcE0n3Ojk8onkmaUGlVEKxQhBeXILf58Pj0258\u002B2TgQPuhhExRDCzLqvZArN5mDReabARdBYSaihjylzCgZREs/MRoB8HRbAzcyiGTSkRlrmJQLBZVCZpYVwcHlJUDVZ0r6dV9DafOX8Sa8RQvpieZzFXDMD4\u002BXp3X/5CJiQmRC/wBUOeA8MehIQsAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-12T12:16:22.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "build.ps1",
+              "DocumentMoniker": "D:\\AWS_Learning_YK\\sampleDockerAPI\\build.ps1",
+              "RelativeDocumentMoniker": "build.ps1",
+              "ToolTip": "D:\\AWS_Learning_YK\\sampleDockerAPI\\build.ps1",
+              "RelativeToolTip": "build.ps1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKISURBVDhPlVLdS1RBFP/dux/JrppKUVoISrRSbVGEBq4Z5ZPRk39A9FYPUQ89CUEv2WOC\u002BFRB9QcUPoQkBItUkAa\u002BpNZ\u002BGO2u3nbdVe/evevuzsydZmY/shehM/fMuefMnN/8zuFoEBIOh7m0\u002BwnnnPX39z/0\u002B/1PaiEVVFYCUEI4pYQzRpU6DlMqY9IuLCzwubk5llhP3lFJNdHlJoHkUl8NtG51XV0BIQShUEj/vrw6GY/Hb6qgEHXqOM6\u002BIFJs28b8/Ly86xUAL2vhvwzEVgXZ8984EzIycg1ng0H0BQLKr4tqoqiND18egqYJV\u002BjMu/fo7OpSvk0YvG4dLvFUhXI44j7hGtKGwW\u002BN3agW2ChB6PqGAV9bB1oCQUxveIHOHkwl3VjxdyN3vA/rh0/A1X0ShTJRjysAxphkrQAi0Rjgb8VyWUfcpoDLg/uXevDoQwTPI9t4Y5QQyxZgJBOkAbCXQc4uw\u002BQexPJlME3H7dkVdDV78HbsHJZWk1jL5pHezCG9kdr8B0BSkCzyxTLSjgcRqwKnrRWZHRuO7sLH1DZ2ShTRtAlqbsHKGJ8bAJTSBoMCZfhB3JiJb2EzmkDs7jBGX33Bs8VfOAgGZzsPapnIb\u002BVmGwD1ZEnhN/Xia7YEtruLIy1NuPJ6UXV\u002B6voZPBjshVe0Lp/NwNfanpK5brmZpinnRwEcE0n3Ojk8onkmaUGlVEKxQhBeXILf58Pj0258\u002B2TgQPuhhExRDCzLqvZArN5mDReabARdBYSaihjylzCgZREs/MRoB8HRbAzcyiGTSkRlrmJQLBZVCZpYVwcHlJUDVZ0r6dV9DafOX8Sa8RQvpieZzFXDMD4\u002BXp3X/5CJiQmRC/wBUOeA8MehIQsAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-12T12:15:44.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "deployment.yml",
+              "DocumentMoniker": "D:\\AWS_Learning_YK\\sampleDockerAPI\\deployment.yml",
+              "RelativeDocumentMoniker": "deployment.yml",
+              "ToolTip": "D:\\AWS_Learning_YK\\sampleDockerAPI\\deployment.yml",
+              "RelativeToolTip": "deployment.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-12T12:12:25.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\AWS_Learning_YK\\sampleDockerAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "D:\\AWS_Learning_YK\\sampleDockerAPI\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-12T11:44:54.336Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

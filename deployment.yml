@@ -1,0 +1,31 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: myk8sapp-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: myk8sapp
+  template:
+    metadata:
+      labels:
+        app: myk8sapp
+    spec:
+      containers:
+        - name: myk8sapp
+          image: 358521120998.dkr.ecr.eu-north-1.amazonaws.com/myfirsttestdocket
+          ports:
+            - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: myk8sapp-service
+spec:
+  type: LoadBalancer
+  ports:
+    - port: 80
+      targetPort: 80
+  selector:
+    app: myk8sapp

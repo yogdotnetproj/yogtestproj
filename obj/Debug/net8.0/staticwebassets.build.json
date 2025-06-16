@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kM/VGhU9T8IStCNKLfMmdZcTymMxh+PKoSF7jqDZmd8=",
+  "Source": "sampleDockerAPI",
+  "BasePath": "_content/sampleDockerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
