@@ -2,7 +2,7 @@
 
 env:
   variables:
-    ECR_REPO_NAME: "myapp"
+    ECR_REPO_NAME: "myfirsttestdocket"
     AWS_DEFAULT_REGION: "us-east-1"
 
 phases:
