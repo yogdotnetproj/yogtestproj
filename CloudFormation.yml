@@ -39,8 +39,8 @@ Resources:
   CodeBuildProject:
     Type: AWS::CodeBuild::Project
     Properties:
-      Name:        !Sub "${ECRRepoName}-build"
-      ServiceRole: !GetAtt CodeBuildRole.Arn
+      Name:         "${ECRRepoName}-build"
+      ServiceRole:  CodeBuildRole.Arn
       Environment:
         ComputeType: BUILD_GENERAL1_MEDIUM
         PrivilegedMode: true
@@ -96,11 +96,11 @@ Resources:
   CodePipeline:
     Type: AWS::CodePipeline::Pipeline
     Properties:
-      Name: !Sub "${ECRRepoName}-pipeline"
-      RoleArn: !GetAtt PipelineRole.Arn
+      Name:  "${ECRRepoName}-pipeline"
+      RoleArn:  PipelineRole.Arn
       ArtifactStore:
         Type: S3
-        Location: !Ref ArtifactBucket
+        Location:  ArtifactBucket
       Stages:
         - Name: Source
           Actions:
@@ -111,9 +111,9 @@ Resources:
                 Provider: CodeStarSourceConnection
                 Version: '1'
               Configuration:
-                ConnectionArn: !Ref GitHubConnectionArn
-                FullRepositoryId: !Ref GitHubRepo
-                BranchName: !Ref GitHubBranch
+                ConnectionArn:  GitHubConnectionArn
+                FullRepositoryId:  GitHubRepo
+                BranchName:  GitHubBranch
                 Output: SourceOutput
               OutputArtifacts:
                 - Name: SourceOutput
@@ -131,7 +131,7 @@ Resources:
               OutputArtifacts:
                 - Name: BuildOutput
               Configuration:
-                ProjectName: !Ref CodeBuildProject
+                ProjectName:  CodeBuildProject
         - Name: Deploy
           Actions:
             - Name: DeployToEKS
@@ -143,11 +143,11 @@ Resources:
               InputArtifacts:
                 - Name: BuildOutput
               Configuration:
-                ClusterName: !Ref EKSClusterName
+                ClusterName:  EKSClusterName
                 FileName: imagedefinitions.json
 
 Outputs:
   PipelineName:
-    Value: !Ref CodePipeline
+    Value:  CodePipeline
   ECRRepositoryUri:
-    Value: !GetAtt ECRRepo.RepositoryUri
+    Value:  ECRRepo.RepositoryUri
